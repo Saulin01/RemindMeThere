@@ -1,0 +1,4 @@
+#Tue Jun 11 22:05:04 BDT 2019
+base.0=C\:\\Users\\DarkThunder\\Desktop\\University\\MAD\\Project\\RemindMeThere-Materials\\remindmethere\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
